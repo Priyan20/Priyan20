@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Priyan20
+- 👋 Hi, I’m @Priyanshu Sharma
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something.
-- 📫 How to reach me 9368851379
+- 📫 How to reach me priyanshu.sharmaedu@gmail.com
 
 <!---
 Priyan20/Priyan20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
